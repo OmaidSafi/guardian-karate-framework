@@ -1,4 +1,4 @@
-@Regression
+@Smoke
 Feature: Verify Account
 
   Background: setup test
